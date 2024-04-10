@@ -28,7 +28,7 @@ To run the analysis and generate the Excel output, follow these steps:
 
 1. Clone the repository:
 
-'''git clone https://github.com/Travis-Magaluk/website-performance-analysis.git'''
+`git clone https://github.com/Travis-Magaluk/website-performance-analysis.git`
 
 2. Navigate to the project directory
 
@@ -36,4 +36,4 @@ To run the analysis and generate the Excel output, follow these steps:
 
 4. Run 'travis_magaluk_coding_exercise.py' with the paths to the CSV files as command line arguments
 
-'''python main.py sessionCounts.csv addsToCart.csv'''
+`python main.py sessionCounts.csv addsToCart.csv`
