@@ -14,7 +14,7 @@ This project aims to analyze the performance of an online retailer's website usi
 
 The project involves the following steps:
 
-1.**EDA Was Done but not uploaded**
+1. **EDA Was Done but not uploaded**
 
 2. **Data Cleaning**: The provided datasets are cleaned and processed to ensure consistency and accuracy in the analysis.
    
