@@ -15,12 +15,18 @@ This project aims to analyze the performance of an online retailer's website usi
 The project involves the following steps:
 
 1.**EDA Was Done but not uploaded**
+
 2. **Data Cleaning**: The provided datasets are cleaned and processed to ensure consistency and accuracy in the analysis.
-3. **Data Aggregation**: The data is aggregated to summarize website performance metrics such as sessions, transactions, quantity, and e-commerce conversion rate (ECR) by month, device category, and browser.
-4. **Month-to-Month Comparison**: A comparison is made between the most recent two months' data to identify trends and changes in website performance metrics.
-5. **Top Browsers Analysis**: The top 20 browsers are identified based on sessions, and their performance metrics are analyzed.
-6. **Excel Output**: The aggregated data and analysis results are exported to an Excel file for further analysis and reporting.
-7. **Generating Visualizations**: all_together.ipynb has the main code, but also includes code for generating some visualizations. 
+   
+4. **Data Aggregation**: The data is aggregated to summarize website performance metrics such as sessions, transactions, quantity, and e-commerce conversion rate (ECR) by month, device category, and browser.
+
+6. **Month-to-Month Comparison**: A comparison is made between the most recent two months' data to identify trends and changes in website performance metrics.
+   
+8. **Top Browsers Analysis**: The top 20 browsers are identified based on sessions, and their performance metrics are analyzed.
+   
+10. **Excel Output**: The aggregated data and analysis results are exported to an Excel file for further analysis and reporting.
+    
+12. **Generating Visualizations**: all_together.ipynb has the main code, but also includes code for generating some visualizations. 
 
 ## Usage
 
