@@ -42,4 +42,4 @@ To run the analysis and generate the Excel output, follow these steps:
 
 4. Run 'travis_magaluk_coding_exercise.py' with the paths to the CSV files as command line arguments
 
-`python main.py sessionCounts.csv addsToCart.csv`
+`python main.py DataAnalyst_Ecom_data_sessionCounts.csv DataAnalyst_Ecom_data_addsToCart.csv`
