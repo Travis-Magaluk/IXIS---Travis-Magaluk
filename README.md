@@ -5,14 +5,10 @@
 
 This project aims to analyze the performance of an online retailer's website using Google Analytics (GA) data. It involves processing two GA datasets containing basic ecommerce metrics to summarize website performance and provide insights to help the retailer understand their website’s performance.
 
-## Project Scope
-
-Imagine that you have been tasked with helping an online retailer measure and analyze their website’s performance. The retailer uses Google Analytics (GA) to track engagement and conversion on their website. You have been given two GA datasets containing basic ecommerce metrics and asked to summarize website performance and provide insights to help the retailer understand their website’s performance.
-
 ## Datasets
 
-- `sessionCounts.csv`: Contains sessions, transactions, and quantity broken out by browser, device category, and date.
-- `addsToCart.csv`: Contains adds to cart broken out by month.
+- `DataAnalyst_Ecom_data_sessionCounts.csv`: Contains sessions, transactions, and quantity broken out by browser, device category, and date.
+- `DataAnalyst_Ecom_data_addsToCart.csv`: Contains adds to cart broken out by month.
 
 ## Analysis
 
@@ -41,5 +37,3 @@ To run the analysis and generate the Excel output, follow these steps:
 4. Run 'travis_magaluk_coding_exercise.py' with the paths to the CSV files as command line arguments
 
 '''python main.py sessionCounts.csv addsToCart.csv'''
-
-5. a
